@@ -16,7 +16,6 @@ namespace _12._20
             for(int i=0;i<pArray.Length;i++)
             {
                 _people[i] = pArray[i];
-                int adasdas=11111111111111111111111111111111;
             }
         }
 
